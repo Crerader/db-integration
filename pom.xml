@@ -19,13 +19,7 @@
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-pmd-plugin</artifactId>
-            <version>3.5.0</version>
-            <configuration>
-                <linkXRef>false</linkXRef>
-                <rulesets>
-                    <ruleset>/rulesets/basic.xml</ruleset>
-                </rulesets>
-            </configuration>
+            <version>3.50</version>
             <executions>
                 <execution>
                     <goals>
