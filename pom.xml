@@ -46,7 +46,7 @@
     
     <profiles>
     <profile>
-      <id>DEV</id>
+      <id>dev</id>
       <properties>
         <environnement>foobar</environnement>
       </properties>
@@ -55,7 +55,7 @@
     </activation>
     </profile>
     <profile>
-      <id>TEST</id>
+      <id>test</id>
       <properties>
         <environnement>test</environnement>
       </properties>
