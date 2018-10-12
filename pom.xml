@@ -50,6 +50,9 @@
       <properties>
         <environnement>foobar</environnement>
       </properties>
+    <activation>
+        <activeByDefault>false</activeByDefault>
+    </activation>
     </profile>
     <profile>
       <id>TEST</id>
